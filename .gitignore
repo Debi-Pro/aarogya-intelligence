@@ -1,0 +1,13 @@
+# ─── Secrets ───
+.streamlit/secrets.toml
+.env
+*.env
+*.key
+*.json
+
+# ─── Python ───
+__pycache__/
+*.pyc
+
+# ─── System ───
+.DS_Store
